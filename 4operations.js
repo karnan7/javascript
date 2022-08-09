@@ -48,7 +48,7 @@ true
 a => b
 a => b
 
-//negation
+//negation(it means that it do opposite of the original value)
 var a = true
 !a
 false
