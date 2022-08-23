@@ -29,3 +29,16 @@ switch(a%2){
     default:
         console.log(`Unknown`)
 }
+
+let a = 20:
+switch(a%2){
+    case 0:
+        console.log(`Hi ${a}is even`)
+        break;
+    case 1:
+        console.log(`Hi ${a}is odd`)
+        break;
+        default:
+            console.log(`Unknown`)
+
+}
